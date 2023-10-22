@@ -22,7 +22,6 @@ Password: 123456
 Follow these steps to run this project in your local computer.
 1. Clone Repository
 ```
-git clone https://github.com/sb011/Bookmyseat.git
 ```
 2. To start project
 ```
