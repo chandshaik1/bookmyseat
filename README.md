@@ -28,6 +28,9 @@ https://github.com/chandshaik1/bookmyseat.git
 npm run dev
 ```
 
+
+
+
 ## Screenshots :
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71833071/176132759-0d547f12-8572-417b-bdef-6e734e22b6b0.png" width="300" >
